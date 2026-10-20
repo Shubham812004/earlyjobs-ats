@@ -5,7 +5,7 @@ A lightweight Applicant Tracking System (ATS) for managing candidates, tracking 
 ## Live Demo
 
 - **Frontend:** https://ats-frontend.ostead.tech
-- **Backend API:** https://ats-backend.ostead.tech
+- **Backend API:** https://ats-backend.ostead.tech/api/dashboard/metrics
 - **Repository:** https://github.com/Shubham812004/earlyjobs-ats
 
 ## Features
