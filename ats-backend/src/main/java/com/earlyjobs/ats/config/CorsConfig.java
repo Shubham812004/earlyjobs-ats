@@ -16,7 +16,8 @@ public class CorsConfig {
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/api/**")
                         .allowedOrigins("http://localhost:5173",
-                                "https://ats-frontend.ostead.tech")
+                                "https://ats-frontend.ostead.tech",
+                                "https://ats-frontend.ostead.tech/dashboard")
                         .allowedMethods(
                                 "GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"
                         )
