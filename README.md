@@ -4,8 +4,8 @@ A lightweight Applicant Tracking System (ATS) for managing candidates, tracking 
 
 ## Live Demo
 
-- **Frontend:** https://ats-frontend.ostead.tech
-- **Backend API:** https://ats-backend.ostead.tech/api/dashboard/metrics
+- **Frontend:** https://ats-frontend.ostead.click
+- **Backend API:** https://ats-backend.ostead.click/api/dashboard/metrics
 - **Repository:** https://github.com/Shubham812004/earlyjobs-ats
 
 ## Features
@@ -170,7 +170,7 @@ The production build is generated in the `dist/` directory.
 
 Base URL:
 
-`https://ats-backend.ostead.tech/api`
+`https://ats-backend.ostead.click/api`
 
 ### Candidate endpoints
 
@@ -192,7 +192,7 @@ Base URL:
 Example request:
 
 ```bash
-curl https://ats-backend.ostead.tech/api/candidates
+curl https://ats-backend.ostead.click/api/candidates
 ```
 
 The API accepts and returns JSON for candidate operations. Refer to the backend DTOs and controller mappings for the exact request fields and validation rules.
